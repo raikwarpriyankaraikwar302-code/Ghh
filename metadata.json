@@ -1,0 +1,6 @@
+{
+  "name": "Mantis Gamepad",
+  "description": "Low-latency touch input mapping for game controllers with overlay HUD, calibration, and profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

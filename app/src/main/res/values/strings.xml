@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mantis Gamepad</string>
+    <string name="app_subtitle">Ultra Low Latency Touch Mapper</string>
+    <string name="tab_games">Games</string>
+    <string name="tab_mapper">Keymapper</string>
+    <string name="tab_tester">Controller Test</string>
+    <string name="tab_calibration">Calibration</string>
+    <string name="tab_activation">Activation</string>
+    <string name="add_game">Add Game</string>
+    <string name="launch_game">Launch &amp; Map</string>
+    <string name="controller_connected">Controller Connected</string>
+    <string name="no_controller">No Gamepad Detected</string>
+    <string name="latency_measurement">Engine Latency</string>
+    <string name="service_status_active">Mantis Engine: ACTIVE</string>
+    <string name="service_status_inactive">Mantis Engine: STANDBY</string>
+</resources>
